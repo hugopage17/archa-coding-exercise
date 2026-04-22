@@ -260,7 +260,7 @@ const ExpenseList = () => {
         }
         okText="Save"
       >
-        <Space direction="vertical" style={{ width: "100%" }}>
+        <Space orientation="vertical" style={{ width: "100%" }}>
           <Input
             value={editModal.name}
             onChange={(e) =>
@@ -323,7 +323,7 @@ const ExpenseList = () => {
         }
         okText="Save"
       >
-        <Space direction="vertical" style={{ width: "100%" }}>
+        <Space orientation="vertical" style={{ width: "100%" }}>
           <Input
             value={editCodeModal.code}
             onChange={(e) =>
