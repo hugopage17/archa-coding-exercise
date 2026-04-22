@@ -12,7 +12,7 @@ A full-stack expense category and code management tool built with Django REST Fr
 cd django-api
 python -m venv venv
 source venv/bin/activate
-pip install django djangorestframework drf-spectacular
+pip install -r requirements.txt
 ```
 
 ### Run the App
