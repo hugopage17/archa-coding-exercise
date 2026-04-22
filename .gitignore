@@ -1,0 +1,3 @@
+/react-frontend/src/api/*
+/django-api/venv/
+__pycache__/
